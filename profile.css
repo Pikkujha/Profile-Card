@@ -1,0 +1,6 @@
+.container{
+    width: 100%;
+    min-height: 100%;
+    background-color: linear-gradient(135deg,#e3dbf6,#a99bf9);
+    padding: 10px;
+}
